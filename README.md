@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-RFM-Analysis
+# Customer Segmentation with RFM Analysis
 
 An online shoe store wants to segment its customers and develop marketing strategies based on these segments. To do this, customer behavior will be defined and groups will be created based on the clustering of these behaviors. The dataset used in this project consists of information obtained from the past shopping behaviors of customers who made OmniChannel (both online and offline) purchases at an online shoe store during the years 2020 - 2021.
 
